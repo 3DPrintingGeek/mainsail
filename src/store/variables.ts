@@ -21,7 +21,7 @@ export const additionalSensors = ['bme280', 'aht10', 'htu21d']
 /*
  * List of valid gcode file extensions
  */
-export const validGcodeExtensions = ['.gcode', '.g', '.gco', '.ufp', '.nc']
+export const validGcodeExtensions = ['.gcode', '.g', '.gco', '.ufp', '.nc', '.bgcode']
 
 /*
  * List of initable server components
