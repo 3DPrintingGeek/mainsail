@@ -1,5 +1,5 @@
 <p align="center">
-  <a>
+   <a>
     <img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png" alt='Mainsail logo' height="152">
     <h1 align="center">Mainsail</h1>
   </a>
